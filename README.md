@@ -1,6 +1,10 @@
 # Vehicle_Tracking_Counting
 
-# YOLONAS Vehicle Tracking and Counting
+
+[![Video Preview]https://media.istockphoto.com/id/155287967/photo/cars-in-rush-hour-with-traffic-at-dawn.jpg?s=612x612&w=0&k=20&c=tDAaJQMHIh6nFDr0rJlD44tEtmj2srdpoSTKL7C5SGE=](https://github.com/TushirSahu/Vehicle_Tracking_Counting/assets/96677478/eecbad1c-0c59-4526-91b0-d9cd2cf897f6)
+
+
+
 
 ## Overview
 YOLONAS Vehicle Tracking and Counting is a software application that utilizes the YOLO (You Only Look Once) object detection algorithm to track and count vehicles in video streams or recorded videos. This README provides a simple guide to help you understand and use the YOLONAS application.
