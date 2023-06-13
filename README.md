@@ -1,7 +1,7 @@
 # Vehicle_Tracking_Counting
 
 
-<img src="https://github.com/TushirSahu/Vehicle_Tracking_Counting/assets/96677478/d110cc2a-b559-47ca-91a2-b821333b2919.gif" alt="Video Preview" width="1000" height="450">
+<img src="https://github.com/TushirSahu/Vehicle_Tracking_Counting/assets/96677478/d110cc2a-b559-47ca-91a2-b821333b2919.gif" alt="Video Preview" width="950" height="400">
 
 
 
