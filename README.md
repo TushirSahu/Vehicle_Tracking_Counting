@@ -1,7 +1,7 @@
 # Vehicle_Tracking_Counting
 
 
-[![Video Preview]https://media.istockphoto.com/id/155287967/photo/cars-in-rush-hour-with-traffic-at-dawn.jpg?s=612x612&w=0&k=20&c=tDAaJQMHIh6nFDr0rJlD44tEtmj2srdpoSTKL7C5SGE=](https://github.com/TushirSahu/Vehicle_Tracking_Counting/assets/96677478/eecbad1c-0c59-4526-91b0-d9cd2cf897f6)
+<img src="https://github.com/TushirSahu/Vehicle_Tracking_Counting/assets/96677478/d110cc2a-b559-47ca-91a2-b821333b2919.gif" alt="Video Preview" width="1000" height="450">
 
 
 
